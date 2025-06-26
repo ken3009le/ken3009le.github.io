@@ -1,0 +1,4 @@
+Hostname: ken
+OS: Linux 6.12.20-amd64
+Arch: x86_64
+Processor: 
