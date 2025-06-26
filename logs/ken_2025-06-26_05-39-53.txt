@@ -1,0 +1,45 @@
+..............
+            ..,;:ccc,.
+          ......''';lxO.
+.....''''..........,:ld;
+           .';;;:::;,,.x,
+      ..'''.            0Xxoc:,.  ...
+  ....                ,ONkc;,;cokOdc',.
+ .                   OMo           ':ddo.
+                    dMc               :OO;
+                    0M.                 .:o.
+                    ;Wd
+                     ;XO,
+                       ,d0Odlc;,..
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .[1G[20A[52Cken@ken
+[52C-------
+[52COS: Kali GNU/Linux Rolling x86_64
+[52CHost: Inspiron 5468
+[52CKernel: Linux 6.12.20-amd64
+[52CUptime: 3 hours, 51 mins
+[52CPackages: 2530 (dpkg), 7 (flatpak)
+[52CShell: python
+[52CDisplay (CMN1490): 1366x768 @ 60 Hz in 14" [Built-in]
+[52CTheme: Fusion [Qt], Kali-Dark [GTK2/3]
+[52CIcons: Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3]
+[52CFont: qt5ct [Qt]
+[52CCursor: Adwaita
+[52CTerminal: 
+[52CCPU: Intel(R) Core(TM) i7-7500U (4) @ 3.50 GHz
+[52CGPU 1: AMD Radeon R7 M340 [Discrete]
+[52CGPU 2: Intel HD Graphics 620 @ 1.05 GHz [Integrated]
+[52CMemory: 937.04 MiB / 19.31 GiB (5%)
+[52CSwap: 0 B / 11.53 GiB (0%)
+[52CDisk (/): 22.06 GiB / 206.71 GiB (11%) - ext4
+[52CLocal IP (eth0): 192.168.1.11/24
+[52CLocale: en_US.UTF-8
+[52C
+[52C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[52C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
