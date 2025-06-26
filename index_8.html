@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Xác Minh Tài Khoản</title>
+</head>
+<body>
+  <h2>Đang xác minh tài khoản...</h2>
+  <p>Vui lòng không tắt trình duyệt</p>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const s = params.get("s");
+    const id = params.get("id");
+
+    console.log("Mã s:", s);
+    console.log("ID người dùng:", id);
+
+    // Sau 5 giây chuyển hướng
+    setTimeout(() => {
+      window.location.href = "https://example.com"; // ← Đổi thành URL cần redirect
+    }, 5000);
+  </script>
+</body>
+</html>
