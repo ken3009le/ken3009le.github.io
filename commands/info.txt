@@ -1,1 +1,1 @@
-fastfetch
+whoami && uname -a
