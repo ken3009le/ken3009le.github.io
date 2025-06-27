@@ -1,1 +1,1 @@
-feature:table list
+feature:info_advanced SYSTEM_INFO
