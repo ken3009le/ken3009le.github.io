@@ -1,1 +1,1 @@
-fastfetch
+feature:table list
